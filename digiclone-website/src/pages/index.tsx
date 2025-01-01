@@ -3,7 +3,6 @@ import Head from 'next/head';
 import Navbar from '@/components/Navjar';
 import Hero from '@/components/Hero';
 import Features from '@/components/Feature';
-import Demo from '@/components/Demos';
 import Footer from '@/components/Footer';
 
 const Home: NextPage = () => {
@@ -20,7 +19,7 @@ const Home: NextPage = () => {
       <main>
         <Hero />
         <Features />
-        <Demo />
+        
       </main>
 
       <Footer />
