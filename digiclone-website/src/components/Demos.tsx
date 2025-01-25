@@ -24,18 +24,18 @@
   
 //   export default Demo;
 
-import React from 'react';
+// import React from 'react';
 
-const Demo = () => {
-  return (
-    <div style={{ padding: '20px', textAlign: 'center' }}>
-      <h2>LIVE DEMO</h2>
-      <h1>Try DigiClone AI</h1>
-        <a href="https://huggingface.co/spaces/sumhack/clonit" target="_blank" className="try-demo-btn">
-            Try Demo
-        </a>
-    </div>
-  );
-};
+// const Demo = () => {
+//   return (
+//     <div style={{ padding: '20px', textAlign: 'center' }}>
+//       <h2>LIVE DEMO</h2>
+//       <h1>Try DigiClone AI</h1>
+//         <a href="https://huggingface.co/spaces/sumhack/clonit" target="_blank" className="try-demo-btn">
+//             Try Demo
+//         </a>
+//     </div>
+//   );
+// };
 
-export default Demo;
+// export default Demo;
